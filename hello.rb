@@ -1,4 +1,4 @@
-bad comment
+good one
 hello world
 this is my first changes
 second change
